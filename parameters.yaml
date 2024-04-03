@@ -1,0 +1,71 @@
+fingers:
+  finger1:
+    phalanx1:
+      x_radius: 10
+      y_radius: 5
+    phalanx2:
+      x_radius: 9
+      y_radius: 4.5
+    phalanx3:
+      x_radius: 8
+      y_radius: 4
+  finger2:
+    phalanx1:
+      x_radius: 10.5
+      y_radius: 5
+    phalanx2:
+      x_radius: 9.5
+      y_radius: 4.5
+    phalanx3:
+      x_radius: 8.5
+      y_radius: 4
+  finger3:
+    phalanx1:
+      x_radius: 10
+      y_radius: 5
+    phalanx2:
+      x_radius: 9
+      y_radius: 4.5
+    phalanx3:
+      x_radius: 8
+      y_radius: 4
+  finger4:
+    phalanx1:
+      x_radius: 8
+      y_radius: 5
+    phalanx2:
+      x_radius: 7
+      y_radius: 4.5
+    phalanx3:
+      x_radius: 5.5
+      y_radius: 4
+
+thumb: 
+      phalanx1:
+        x_radius: 8
+        y_radius: 5
+      phalanx2:
+        x_radius: 7
+        y_radius: 4.5
+
+joint:
+  radius: 2.0
+  offset: 0.5
+  thickness: 5.0
+
+global:
+  finger_thickness: 5.0
+  fillet_radius: 0.5
+
+palm:
+  width: 30
+  height: 30
+  thickness: 5.0
+  angle: 30
+  thumb_height_offset: 5
+  joint_thickness: 10
+  thumb_width: 10
+  joint_radius: 3
+  joint_offset: 5
+  
+  
